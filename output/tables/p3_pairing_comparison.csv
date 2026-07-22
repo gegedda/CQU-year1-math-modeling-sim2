@@ -1,0 +1,4 @@
+﻿Strategy,Total_Distance_mm,Num_Pairs,Num_Singles,Improvement_vs_Baseline_pct
+A — 最近邻配对,23688.00,40,20,0.00
+B — X坐标相邻配对,24758.00,40,20,-4.52
+C — 最远优先配对,26954.00,40,20,-13.79

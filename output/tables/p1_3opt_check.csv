@@ -1,0 +1,5 @@
+n,Algorithm,Distance_mm,Time_s
+50,NN,2259.6023,22.5960
+50,2-opt,1956.5015,19.5650
+50,3-opt,1956.5015,19.5650
+50,3opt_vs_2opt_improvement_pct,0.0000,

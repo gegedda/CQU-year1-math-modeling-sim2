@@ -1,0 +1,23 @@
+# Skill-generated research folders (user's local work — never commit)
+memoria/
+investigaciones/
+
+# Defensive: accidental credential leaks
+.env
+.env.*
+apikey*
+*token*
+*password*
+*secret*
+*credential*
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+*~
